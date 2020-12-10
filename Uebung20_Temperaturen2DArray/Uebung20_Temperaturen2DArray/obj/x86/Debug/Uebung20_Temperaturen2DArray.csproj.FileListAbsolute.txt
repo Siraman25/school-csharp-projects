@@ -1,0 +1,4 @@
+J:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung20_Temperaturen2DArray\Uebung20_Temperaturen2DArray\bin\Debug\Uebung20_Temperaturen2DArray.exe
+J:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung20_Temperaturen2DArray\Uebung20_Temperaturen2DArray\bin\Debug\Uebung20_Temperaturen2DArray.pdb
+J:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung20_Temperaturen2DArray\Uebung20_Temperaturen2DArray\obj\x86\Debug\Uebung20_Temperaturen2DArray.exe
+J:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung20_Temperaturen2DArray\Uebung20_Temperaturen2DArray\obj\x86\Debug\Uebung20_Temperaturen2DArray.pdb

@@ -1,0 +1,6 @@
+C:\Users\Some1\AppData\Local\Temporary Projects\Uebung10_ElektronikStromRechner\bin\Debug\Uebung10_ElektronikStromRechner.exe
+C:\Users\Some1\AppData\Local\Temporary Projects\Uebung10_ElektronikStromRechner\bin\Debug\Uebung10_ElektronikStromRechner.pdb
+C:\Users\Some1\AppData\Local\Temporary Projects\Uebung10_ElektronikStromRechner\obj\x86\Debug\Uebung10_ElektronikStromRechner.exe
+C:\Users\Some1\AppData\Local\Temporary Projects\Uebung10_ElektronikStromRechner\obj\x86\Debug\Uebung10_ElektronikStromRechner.pdb
+E:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung10_ElektronikStromRechner\Uebung10_ElektronikStromRechner\obj\x86\Debug\Uebung10_ElektronikStromRechner.exe
+E:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung10_ElektronikStromRechner\Uebung10_ElektronikStromRechner\obj\x86\Debug\Uebung10_ElektronikStromRechner.pdb

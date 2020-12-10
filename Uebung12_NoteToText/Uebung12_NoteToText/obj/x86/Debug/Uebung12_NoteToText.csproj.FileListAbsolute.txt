@@ -1,0 +1,6 @@
+C:\Users\Some1\AppData\Local\Temporary Projects\Uebung12_NoteToText\bin\Debug\Uebung12_NoteToText.exe
+C:\Users\Some1\AppData\Local\Temporary Projects\Uebung12_NoteToText\bin\Debug\Uebung12_NoteToText.pdb
+C:\Users\Some1\AppData\Local\Temporary Projects\Uebung12_NoteToText\obj\x86\Debug\Uebung12_NoteToText.exe
+C:\Users\Some1\AppData\Local\Temporary Projects\Uebung12_NoteToText\obj\x86\Debug\Uebung12_NoteToText.pdb
+E:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung12_NoteToText\Uebung12_NoteToText\obj\x86\Debug\Uebung12_NoteToText.exe
+E:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung12_NoteToText\Uebung12_NoteToText\obj\x86\Debug\Uebung12_NoteToText.pdb

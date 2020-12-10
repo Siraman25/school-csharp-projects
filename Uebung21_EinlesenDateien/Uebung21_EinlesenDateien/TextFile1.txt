@@ -1,0 +1,7 @@
+﻿Speichere die Datei pm10onlyvalues.csv auf deinem Rechner
+
+    Erstelle eine Methode "readFile" welche den Dateinamen der zu lesenden datei (z.B. pm10onlyvalues_de.txt) bekommt und ein Feld mit dem Inhalt der Datei zurückgibt. Datentyp des Feldes double[]. Du kannst die Anzahl der Elemente vorerst als bekannt annehmen. Als Erweiterung bitte die Anzahl der Elemente bestimmen. 
+    Erstelle eine Methode "printout" welche ein Feld bekommt und dieses am Bildschirm ausgibt. 
+    Erstelle eine Methode "mean" welche ein Feld als Eingangsparameter erhält und den Mittelwert des Feldes berechnet. 
+    Erstelle eine Methode "verdopple" welche ein Feld als Eingangsparameter bekommt und ein neues Feld zurückgibt. Die Werte dieses neuen Feldes sollen das doppelte der Werte des übergebenen Feldes sein. 
+    Erstelle eine Methode "halfByRef" welche ein Feld bekommt und dieses verändert. Jedes "x"-te Element wird halbiert. x ist ein Parameter der Methode. 

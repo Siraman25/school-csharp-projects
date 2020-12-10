@@ -1,0 +1,4 @@
+E:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung07_RadiusKreis\Uebung07_RadiusKreis\bin\Debug\Uebung07_RadiusKreis.exe
+E:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung07_RadiusKreis\Uebung07_RadiusKreis\bin\Debug\Uebung07_RadiusKreis.pdb
+E:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung07_RadiusKreis\Uebung07_RadiusKreis\obj\x86\Debug\Uebung07_RadiusKreis.exe
+E:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung07_RadiusKreis\Uebung07_RadiusKreis\obj\x86\Debug\Uebung07_RadiusKreis.pdb

@@ -1,0 +1,6 @@
+J:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung16_Ueberpruefung auf Quadratzahl\Uebung16_Ueberpruefung auf Quadratzahl\bin\Debug\Uebung16_Ueberpruefung auf Quadratzahl.exe
+J:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung16_Ueberpruefung auf Quadratzahl\Uebung16_Ueberpruefung auf Quadratzahl\bin\Debug\Uebung16_Ueberpruefung auf Quadratzahl.pdb
+J:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung16_Ueberpruefung auf Quadratzahl\Uebung16_Ueberpruefung auf Quadratzahl\obj\x86\Debug\Uebung16_Ueberpruefung auf Quadratzahl.exe
+J:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung16_Ueberpruefung auf Quadratzahl\Uebung16_Ueberpruefung auf Quadratzahl\obj\x86\Debug\Uebung16_Ueberpruefung auf Quadratzahl.pdb
+J:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung16_UeberpruefungAufQuadratzahl\Uebung16_Ueberpruefung auf Quadratzahl\obj\x86\Debug\Uebung16_Ueberpruefung auf Quadratzahl.exe
+J:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung16_UeberpruefungAufQuadratzahl\Uebung16_Ueberpruefung auf Quadratzahl\obj\x86\Debug\Uebung16_Ueberpruefung auf Quadratzahl.pdb

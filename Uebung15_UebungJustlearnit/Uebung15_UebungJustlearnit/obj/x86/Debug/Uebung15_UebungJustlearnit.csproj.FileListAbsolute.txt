@@ -1,0 +1,8 @@
+C:\Users\arism\AppData\Local\Temporary Projects\Uebung15_UebungJustlearnit\bin\Debug\Uebung15_UebungJustlearnit.exe
+C:\Users\arism\AppData\Local\Temporary Projects\Uebung15_UebungJustlearnit\bin\Debug\Uebung15_UebungJustlearnit.pdb
+C:\Users\arism\AppData\Local\Temporary Projects\Uebung15_UebungJustlearnit\obj\x86\Debug\Uebung15_UebungJustlearnit.exe
+C:\Users\arism\AppData\Local\Temporary Projects\Uebung15_UebungJustlearnit\obj\x86\Debug\Uebung15_UebungJustlearnit.pdb
+J:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung15_UebungJustlearnit\Uebung15_UebungJustlearnit\obj\x86\Debug\Uebung15_UebungJustlearnit.exe
+J:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung15_UebungJustlearnit\Uebung15_UebungJustlearnit\obj\x86\Debug\Uebung15_UebungJustlearnit.pdb
+J:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung15_UebungJustlearnit\Uebung15_UebungJustlearnit\bin\Debug\Uebung15_UebungJustlearnit.exe
+J:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung15_UebungJustlearnit\Uebung15_UebungJustlearnit\bin\Debug\Uebung15_UebungJustlearnit.pdb

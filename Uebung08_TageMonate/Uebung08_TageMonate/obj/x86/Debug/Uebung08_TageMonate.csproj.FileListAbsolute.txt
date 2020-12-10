@@ -1,0 +1,4 @@
+E:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung08_TageMonate\Uebung08_TageMonate\bin\Debug\Uebung08_TageMonate.exe
+E:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung08_TageMonate\Uebung08_TageMonate\bin\Debug\Uebung08_TageMonate.pdb
+E:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung08_TageMonate\Uebung08_TageMonate\obj\x86\Debug\Uebung08_TageMonate.exe
+E:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung08_TageMonate\Uebung08_TageMonate\obj\x86\Debug\Uebung08_TageMonate.pdb

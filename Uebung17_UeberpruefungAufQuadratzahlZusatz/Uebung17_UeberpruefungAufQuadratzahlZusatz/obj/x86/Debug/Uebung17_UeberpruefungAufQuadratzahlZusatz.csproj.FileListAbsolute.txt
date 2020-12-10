@@ -1,0 +1,6 @@
+C:\Users\arism\AppData\Local\Temporary Projects\Uebung17_UeberpruefungAufQuadratzahlZusatz\bin\Debug\Uebung17_UeberpruefungAufQuadratzahlZusatz.exe
+C:\Users\arism\AppData\Local\Temporary Projects\Uebung17_UeberpruefungAufQuadratzahlZusatz\bin\Debug\Uebung17_UeberpruefungAufQuadratzahlZusatz.pdb
+C:\Users\arism\AppData\Local\Temporary Projects\Uebung17_UeberpruefungAufQuadratzahlZusatz\obj\x86\Debug\Uebung17_UeberpruefungAufQuadratzahlZusatz.exe
+C:\Users\arism\AppData\Local\Temporary Projects\Uebung17_UeberpruefungAufQuadratzahlZusatz\obj\x86\Debug\Uebung17_UeberpruefungAufQuadratzahlZusatz.pdb
+J:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung17_UeberpruefungAufQuadratzahlZusatz\Uebung17_UeberpruefungAufQuadratzahlZusatz\obj\x86\Debug\Uebung17_UeberpruefungAufQuadratzahlZusatz.exe
+J:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung17_UeberpruefungAufQuadratzahlZusatz\Uebung17_UeberpruefungAufQuadratzahlZusatz\obj\x86\Debug\Uebung17_UeberpruefungAufQuadratzahlZusatz.pdb

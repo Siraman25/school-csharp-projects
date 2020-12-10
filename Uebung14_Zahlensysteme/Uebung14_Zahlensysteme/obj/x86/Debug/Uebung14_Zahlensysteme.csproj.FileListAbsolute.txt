@@ -1,0 +1,8 @@
+J:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung14_Zahlensysteme\Uebung14_Zahlensysteme\bin\Debug\Uebung14_Zahlensysteme.exe
+J:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung14_Zahlensysteme\Uebung14_Zahlensysteme\bin\Debug\Uebung14_Zahlensysteme.pdb
+J:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung14_Zahlensysteme\Uebung14_Zahlensysteme\obj\x86\Debug\Uebung14_Zahlensysteme.exe
+J:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung14_Zahlensysteme\Uebung14_Zahlensysteme\obj\x86\Debug\Uebung14_Zahlensysteme.pdb
+E:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung14_Zahlensysteme\Uebung14_Zahlensysteme\obj\x86\Debug\Uebung14_Zahlensysteme.exe
+E:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung14_Zahlensysteme\Uebung14_Zahlensysteme\obj\x86\Debug\Uebung14_Zahlensysteme.pdb
+E:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung14_Zahlensysteme\Uebung14_Zahlensysteme\bin\Debug\Uebung14_Zahlensysteme.exe
+E:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung14_Zahlensysteme\Uebung14_Zahlensysteme\bin\Debug\Uebung14_Zahlensysteme.pdb

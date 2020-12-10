@@ -1,0 +1,4 @@
+C:\Users\arism\AppData\Local\Temporary Projects\Uebung17_Wuerfelspiel\bin\Debug\Uebung17_Wuerfelspiel.exe
+C:\Users\arism\AppData\Local\Temporary Projects\Uebung17_Wuerfelspiel\bin\Debug\Uebung17_Wuerfelspiel.pdb
+C:\Users\arism\AppData\Local\Temporary Projects\Uebung17_Wuerfelspiel\obj\x86\Debug\Uebung17_Wuerfelspiel.exe
+C:\Users\arism\AppData\Local\Temporary Projects\Uebung17_Wuerfelspiel\obj\x86\Debug\Uebung17_Wuerfelspiel.pdb

@@ -1,0 +1,58 @@
+﻿Erstelle eine Applikation zur Verwaltung von Messwerten einer Wetterstation 
+
+
+Verwende ein Array zum Speichern der Messwerte. Die Anzahl der Messwerte ist maximal 1000. Verwende eine Konstante zur Angabe der maximalen Größe. Du musst auch noch speichern wie viele Messwerte in diesem Feld wirklich gespeichert sind. Beispiel: das Feld hat eine Grösse von 1000, wir haben aber erst 10 Messwerte erfasst.
+
+
+Jede Aufgabe ist in einer eigenen Methode zu erledigen, z.B. MesswertErfassen(). Das Array und eventuell andere notwendige Parameter wird dabei jeweils an die Methode übergeben. Verwende keine globalen Variablen! 
+
+
+
+a) Menue
+
+Die Applikation soll ein Auswahlmenue haben: 
+
+z.B: 
+
+
+  1. Zusätzlichen Messwert erfassen
+
+  2. Letzten Messwert löschen
+
+  3. Mittelwert berechnen und ausgeben
+
+  4. Daten in Datei schreiben
+
+  5. Daten von Datei lesen
+
+  6. Programm beenden
+
+
+
+Verwende Console.Clear, BackgroundColor, ForegroundColor und Console.SetCursorPosition um das Menue ansprechend zu gestalten. 
+
+
+Das Menue muss mit einer eigenen Prozedur (Name: printMenue) am Bildschirm ausgegeben werden. 
+
+
+
+Alle Menüpunkte müssen in einer eigenen Methode erfolgen. 
+
+
+Das Einlesen der Benutzereingabe des Menues und der Aufruf der Methoden für jeden Menuepunkt erfolgt in der Main Methode. 
+
+
+
+b) addMeasure: es wird ein zusätzlicher Messwert erfasst und im Array gespeichert
+
+
+c) Punkt 3: eine Methode printMittelwert welche die avgMeasures welche den Mittelwert der Messwerte berechnet. Beachte, dass nicht alle Werte im Feld auch ein gültiger Messwert sind. 
+
+
+d) saveToFile: die aktuellen Messwerte werden in einer Datei gespeichert. Jeder Messwert in einer eigenen Zeile. Erweiterung: der Benutzer gibt den Namen der Datei ein.
+
+
+e) loadFromFile: die aktuellen Messwerte werden gelöscht und von einer Datei gelesen. Erweiterung: Der Benutzer gibt den Namen der Datei manuell ein. 
+
+
+f) Erweiterung: Verwende ein 2D-Array, wir speichern zwei Messwerte a) Temperatur, b) Luftfeuchtigkeit, jeweils als double-Wert. 

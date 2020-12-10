@@ -1,0 +1,4 @@
+J:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung19_Wuerfelspiel\Uebung19_Wuerfelspiel\bin\Debug\Uebung19_Wuerfelspiel.exe
+J:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung19_Wuerfelspiel\Uebung19_Wuerfelspiel\bin\Debug\Uebung19_Wuerfelspiel.pdb
+J:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung19_Wuerfelspiel\Uebung19_Wuerfelspiel\obj\x86\Debug\Uebung19_Wuerfelspiel.exe
+J:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung19_Wuerfelspiel\Uebung19_Wuerfelspiel\obj\x86\Debug\Uebung19_Wuerfelspiel.pdb

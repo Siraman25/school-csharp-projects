@@ -1,0 +1,4 @@
+E:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung11_Schleifen\Uebung11_Schleifen\bin\Debug\Uebung11_Schleifen.exe
+E:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung11_Schleifen\Uebung11_Schleifen\bin\Debug\Uebung11_Schleifen.pdb
+E:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung11_Schleifen\Uebung11_Schleifen\obj\x86\Debug\Uebung11_Schleifen.exe
+E:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung11_Schleifen\Uebung11_Schleifen\obj\x86\Debug\Uebung11_Schleifen.pdb

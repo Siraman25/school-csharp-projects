@@ -1,0 +1,6 @@
+C:\Users\arism\AppData\Local\Temporary Projects\Uebung18_Potenzen\bin\Debug\Uebung18_Potenzen.exe
+C:\Users\arism\AppData\Local\Temporary Projects\Uebung18_Potenzen\bin\Debug\Uebung18_Potenzen.pdb
+C:\Users\arism\AppData\Local\Temporary Projects\Uebung18_Potenzen\obj\x86\Debug\Uebung18_Potenzen.exe
+C:\Users\arism\AppData\Local\Temporary Projects\Uebung18_Potenzen\obj\x86\Debug\Uebung18_Potenzen.pdb
+J:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung18_Potenzen\Uebung18_Potenzen\obj\x86\Debug\Uebung18_Potenzen.exe
+J:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung18_Potenzen\Uebung18_Potenzen\obj\x86\Debug\Uebung18_Potenzen.pdb

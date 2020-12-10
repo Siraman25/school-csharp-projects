@@ -1,0 +1,6 @@
+C:\Users\Some1\AppData\Local\Temporary Projects\Uebung02_EuroLire\bin\Debug\Uebung02_EuroLire.exe
+C:\Users\Some1\AppData\Local\Temporary Projects\Uebung02_EuroLire\bin\Debug\Uebung02_EuroLire.pdb
+C:\Users\Some1\AppData\Local\Temporary Projects\Uebung02_EuroLire\obj\x86\Debug\Uebung02_EuroLire.exe
+C:\Users\Some1\AppData\Local\Temporary Projects\Uebung02_EuroLire\obj\x86\Debug\Uebung02_EuroLire.pdb
+E:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung02_EuroLire\Uebung02_EuroLire\obj\x86\Debug\Uebung02_EuroLire.exe
+E:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung02_EuroLire\Uebung02_EuroLire\obj\x86\Debug\Uebung02_EuroLire.pdb

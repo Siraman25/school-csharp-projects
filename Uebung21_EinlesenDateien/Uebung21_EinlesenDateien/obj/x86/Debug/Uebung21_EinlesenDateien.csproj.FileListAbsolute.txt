@@ -1,0 +1,4 @@
+J:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung21_EinlesenDateien\Uebung21_EinlesenDateien\bin\Debug\Uebung21_EinlesenDateien.exe
+J:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung21_EinlesenDateien\Uebung21_EinlesenDateien\bin\Debug\Uebung21_EinlesenDateien.pdb
+J:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung21_EinlesenDateien\Uebung21_EinlesenDateien\obj\x86\Debug\Uebung21_EinlesenDateien.exe
+J:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung21_EinlesenDateien\Uebung21_EinlesenDateien\obj\x86\Debug\Uebung21_EinlesenDateien.pdb

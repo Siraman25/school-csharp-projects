@@ -1,0 +1,4 @@
+E:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung09_NotenInWorten\Uebung09_NotenInWorten\bin\Debug\Uebung09_NotenInWorten.exe
+E:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung09_NotenInWorten\Uebung09_NotenInWorten\bin\Debug\Uebung09_NotenInWorten.pdb
+E:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung09_NotenInWorten\Uebung09_NotenInWorten\obj\x86\Debug\Uebung09_NotenInWorten.exe
+E:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung09_NotenInWorten\Uebung09_NotenInWorten\obj\x86\Debug\Uebung09_NotenInWorten.pdb

@@ -1,0 +1,8 @@
+C:\Users\arism\AppData\Local\Temporary Projects\Uebung23_WiederholungAlles\bin\Debug\Uebung23_WiederholungAlles.exe
+C:\Users\arism\AppData\Local\Temporary Projects\Uebung23_WiederholungAlles\bin\Debug\Uebung23_WiederholungAlles.pdb
+C:\Users\arism\AppData\Local\Temporary Projects\Uebung23_WiederholungAlles\obj\x86\Debug\Uebung23_WiederholungAlles.exe
+C:\Users\arism\AppData\Local\Temporary Projects\Uebung23_WiederholungAlles\obj\x86\Debug\Uebung23_WiederholungAlles.pdb
+J:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung23_WiederholungAlles\Uebung23_WiederholungAlles\obj\x86\Debug\Uebung23_WiederholungAlles.exe
+J:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung23_WiederholungAlles\Uebung23_WiederholungAlles\obj\x86\Debug\Uebung23_WiederholungAlles.pdb
+J:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung23_WiederholungAlles\Uebung23_WiederholungAlles\bin\Debug\Uebung23_WiederholungAlles.exe
+J:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung23_WiederholungAlles\Uebung23_WiederholungAlles\bin\Debug\Uebung23_WiederholungAlles.pdb

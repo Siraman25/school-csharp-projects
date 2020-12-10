@@ -1,0 +1,6 @@
+C:\Users\Some1\AppData\Local\Temporary Projects\Uebung06_Minderjaehrig\bin\Debug\Uebung06_Minderjaehrig.exe
+C:\Users\Some1\AppData\Local\Temporary Projects\Uebung06_Minderjaehrig\bin\Debug\Uebung06_Minderjaehrig.pdb
+C:\Users\Some1\AppData\Local\Temporary Projects\Uebung06_Minderjaehrig\obj\x86\Debug\Uebung06_Minderjaehrig.exe
+C:\Users\Some1\AppData\Local\Temporary Projects\Uebung06_Minderjaehrig\obj\x86\Debug\Uebung06_Minderjaehrig.pdb
+E:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung06_Minderjaehrig\Uebung06_Minderjaehrig\obj\x86\Debug\Uebung06_Minderjaehrig.exe
+E:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung06_Minderjaehrig\Uebung06_Minderjaehrig\obj\x86\Debug\Uebung06_Minderjaehrig.pdb

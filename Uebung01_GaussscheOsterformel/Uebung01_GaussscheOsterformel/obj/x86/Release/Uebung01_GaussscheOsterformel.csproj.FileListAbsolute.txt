@@ -1,0 +1,8 @@
+G:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung01_GaussscheOsterformel\Uebung01_GaussscheOsterformel\bin\Release\Uebung01_GaussscheOsterformel.exe.manifest
+G:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung01_GaussscheOsterformel\Uebung01_GaussscheOsterformel\bin\Release\Uebung01_GaussscheOsterformel.application
+G:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung01_GaussscheOsterformel\Uebung01_GaussscheOsterformel\bin\Release\Uebung01_GaussscheOsterformel.exe
+G:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung01_GaussscheOsterformel\Uebung01_GaussscheOsterformel\bin\Release\Uebung01_GaussscheOsterformel.pdb
+G:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung01_GaussscheOsterformel\Uebung01_GaussscheOsterformel\obj\x86\Release\Uebung01_GaussscheOsterformel.exe.manifest
+G:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung01_GaussscheOsterformel\Uebung01_GaussscheOsterformel\obj\x86\Release\Uebung01_GaussscheOsterformel.application
+G:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung01_GaussscheOsterformel\Uebung01_GaussscheOsterformel\obj\x86\Release\Uebung01_GaussscheOsterformel.exe
+G:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung01_GaussscheOsterformel\Uebung01_GaussscheOsterformel\obj\x86\Release\Uebung01_GaussscheOsterformel.pdb

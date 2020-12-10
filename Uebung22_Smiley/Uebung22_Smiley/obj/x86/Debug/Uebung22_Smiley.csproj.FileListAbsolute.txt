@@ -1,0 +1,5 @@
+J:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung22_Smiley\Uebung22_Smiley\bin\Debug\Uebung22_Smiley.exe
+J:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung22_Smiley\Uebung22_Smiley\bin\Debug\Uebung22_Smiley.pdb
+J:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung22_Smiley\Uebung22_Smiley\obj\x86\Debug\Uebung22_Smiley.exe
+J:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung22_Smiley\Uebung22_Smiley\obj\x86\Debug\Uebung22_Smiley.pdb
+J:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung22_Smiley\Uebung22_Smiley\obj\x86\Debug\Uebung22_Smiley.csprojResolveAssemblyReference.cache
