@@ -6,3 +6,8 @@ J:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung23_Wiederholu
 J:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung23_WiederholungAlles\Uebung23_WiederholungAlles\obj\x86\Debug\Uebung23_WiederholungAlles.pdb
 J:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung23_WiederholungAlles\Uebung23_WiederholungAlles\bin\Debug\Uebung23_WiederholungAlles.exe
 J:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung23_WiederholungAlles\Uebung23_WiederholungAlles\bin\Debug\Uebung23_WiederholungAlles.pdb
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung23_WiederholungAlles\Uebung23_WiederholungAlles\bin\Debug\Uebung23_WiederholungAlles.exe
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung23_WiederholungAlles\Uebung23_WiederholungAlles\bin\Debug\Uebung23_WiederholungAlles.pdb
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung23_WiederholungAlles\Uebung23_WiederholungAlles\obj\x86\Debug\Uebung23_WiederholungAlles.csproj.CoreCompileInputs.cache
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung23_WiederholungAlles\Uebung23_WiederholungAlles\obj\x86\Debug\Uebung23_WiederholungAlles.exe
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung23_WiederholungAlles\Uebung23_WiederholungAlles\obj\x86\Debug\Uebung23_WiederholungAlles.pdb
