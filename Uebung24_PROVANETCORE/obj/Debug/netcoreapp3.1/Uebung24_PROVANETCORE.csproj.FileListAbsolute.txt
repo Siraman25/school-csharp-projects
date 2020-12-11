@@ -1,0 +1,11 @@
+/home/aris/C#/Uebung24_PROVANETCORE/bin/Debug/netcoreapp3.1/Uebung24_PROVANETCORE
+/home/aris/C#/Uebung24_PROVANETCORE/bin/Debug/netcoreapp3.1/Uebung24_PROVANETCORE.deps.json
+/home/aris/C#/Uebung24_PROVANETCORE/bin/Debug/netcoreapp3.1/Uebung24_PROVANETCORE.runtimeconfig.json
+/home/aris/C#/Uebung24_PROVANETCORE/bin/Debug/netcoreapp3.1/Uebung24_PROVANETCORE.runtimeconfig.dev.json
+/home/aris/C#/Uebung24_PROVANETCORE/bin/Debug/netcoreapp3.1/Uebung24_PROVANETCORE.dll
+/home/aris/C#/Uebung24_PROVANETCORE/bin/Debug/netcoreapp3.1/Uebung24_PROVANETCORE.pdb
+/home/aris/C#/Uebung24_PROVANETCORE/obj/Debug/netcoreapp3.1/Uebung24_PROVANETCORE.csprojAssemblyReference.cache
+/home/aris/C#/Uebung24_PROVANETCORE/obj/Debug/netcoreapp3.1/Uebung24_PROVANETCORE.AssemblyInfoInputs.cache
+/home/aris/C#/Uebung24_PROVANETCORE/obj/Debug/netcoreapp3.1/Uebung24_PROVANETCORE.AssemblyInfo.cs
+/home/aris/C#/Uebung24_PROVANETCORE/obj/Debug/netcoreapp3.1/Uebung24_PROVANETCORE.dll
+/home/aris/C#/Uebung24_PROVANETCORE/obj/Debug/netcoreapp3.1/Uebung24_PROVANETCORE.pdb
