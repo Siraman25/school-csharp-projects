@@ -33,6 +33,14 @@ namespace Uebung24_PROVANETCORE
                         break;
                 }
                 System.Console.WriteLine("END!");
+                System.Console.Write("Writing changes");
+                for (int i = 0; i < 100; i++)
+                {
+                    System.Console.Write(".");
+                    
+                }
+                Console.WriteLine();
+
                 System.Console.WriteLine("Do you want to repeat your program? (YES/NO)");
                 repeaterText = Console.ReadLine();
                 if (repeaterText == "YES")

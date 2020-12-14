@@ -9,3 +9,16 @@
 /home/aris/C#/Uebung24_PROVANETCORE/obj/Debug/netcoreapp3.1/Uebung24_PROVANETCORE.AssemblyInfo.cs
 /home/aris/C#/Uebung24_PROVANETCORE/obj/Debug/netcoreapp3.1/Uebung24_PROVANETCORE.dll
 /home/aris/C#/Uebung24_PROVANETCORE/obj/Debug/netcoreapp3.1/Uebung24_PROVANETCORE.pdb
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung24_PROVANETCORE\bin\Debug\netcoreapp3.1\Uebung24_PROVANETCORE.exe
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung24_PROVANETCORE\bin\Debug\netcoreapp3.1\Uebung24_PROVANETCORE.deps.json
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung24_PROVANETCORE\bin\Debug\netcoreapp3.1\Uebung24_PROVANETCORE.runtimeconfig.json
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung24_PROVANETCORE\bin\Debug\netcoreapp3.1\Uebung24_PROVANETCORE.runtimeconfig.dev.json
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung24_PROVANETCORE\bin\Debug\netcoreapp3.1\Uebung24_PROVANETCORE.dll
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung24_PROVANETCORE\bin\Debug\netcoreapp3.1\Uebung24_PROVANETCORE.pdb
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung24_PROVANETCORE\obj\Debug\netcoreapp3.1\Uebung24_PROVANETCORE.csprojAssemblyReference.cache
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung24_PROVANETCORE\obj\Debug\netcoreapp3.1\Uebung24_PROVANETCORE.AssemblyInfoInputs.cache
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung24_PROVANETCORE\obj\Debug\netcoreapp3.1\Uebung24_PROVANETCORE.AssemblyInfo.cs
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung24_PROVANETCORE\obj\Debug\netcoreapp3.1\Uebung24_PROVANETCORE.csproj.CoreCompileInputs.cache
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung24_PROVANETCORE\obj\Debug\netcoreapp3.1\Uebung24_PROVANETCORE.dll
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung24_PROVANETCORE\obj\Debug\netcoreapp3.1\Uebung24_PROVANETCORE.pdb
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung24_PROVANETCORE\obj\Debug\netcoreapp3.1\Uebung24_PROVANETCORE.genruntimeconfig.cache
