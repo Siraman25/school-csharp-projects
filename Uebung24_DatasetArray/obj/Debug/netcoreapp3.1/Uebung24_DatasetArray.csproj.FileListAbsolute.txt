@@ -1,0 +1,11 @@
+/home/aris/C#/Uebung24_DatasetArray/bin/Debug/netcoreapp3.1/Uebung24_DatasetArray
+/home/aris/C#/Uebung24_DatasetArray/bin/Debug/netcoreapp3.1/Uebung24_DatasetArray.deps.json
+/home/aris/C#/Uebung24_DatasetArray/bin/Debug/netcoreapp3.1/Uebung24_DatasetArray.runtimeconfig.json
+/home/aris/C#/Uebung24_DatasetArray/bin/Debug/netcoreapp3.1/Uebung24_DatasetArray.runtimeconfig.dev.json
+/home/aris/C#/Uebung24_DatasetArray/bin/Debug/netcoreapp3.1/Uebung24_DatasetArray.dll
+/home/aris/C#/Uebung24_DatasetArray/bin/Debug/netcoreapp3.1/Uebung24_DatasetArray.pdb
+/home/aris/C#/Uebung24_DatasetArray/obj/Debug/netcoreapp3.1/Uebung24_DatasetArray.csprojAssemblyReference.cache
+/home/aris/C#/Uebung24_DatasetArray/obj/Debug/netcoreapp3.1/Uebung24_DatasetArray.AssemblyInfoInputs.cache
+/home/aris/C#/Uebung24_DatasetArray/obj/Debug/netcoreapp3.1/Uebung24_DatasetArray.AssemblyInfo.cs
+/home/aris/C#/Uebung24_DatasetArray/obj/Debug/netcoreapp3.1/Uebung24_DatasetArray.dll
+/home/aris/C#/Uebung24_DatasetArray/obj/Debug/netcoreapp3.1/Uebung24_DatasetArray.pdb

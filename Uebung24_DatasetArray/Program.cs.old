@@ -1,0 +1,100 @@
+﻿using System;
+
+namespace Uebung24_DatasetArray
+{
+    public class Wine
+    {
+        int fixed_acidity, volatile_acidity, citric_acid, residual_sugar, chlorides, free_sulfur_dioxide, total_sulfur_dioxide, density, pH, sulphates, alcohol, quality;
+
+        public Wine(int fixed_acidity, int volatile_acidity, int citric_acid, int residual_sugar, int chlorides, int free_sulfur_dioxide, int total_sulfur_dioxide, int density, int pH, int sulphates, int alcohol, int quality)
+        {
+            this.fixed_acidity = fixed_acidity;
+            this.volatile_acidity = volatile_acidity;
+            this.citric_acid = citric_acid;
+            this.residual_sugar = residual_sugar;
+            this.chlorides = chlorides;
+            this.free_sulfur_dioxide = free_sulfur_dioxide;
+            this.total_sulfur_dioxide = total_sulfur_dioxide;
+            this.density = density;
+            this.pH = pH;
+            this.sulphates = sulphates;
+            this.alcohol = alcohol;
+            this.quality = quality;
+        }
+        
+        public int getFixed_Acidity()
+        {
+            return fixed_acidity;
+        }
+        
+        public int getVolatile_Acidity()
+        {
+            return volatile_acidity;
+        }
+
+        public int getCitric_Acidity()
+        {
+            return citric_acid;
+        }
+
+        public int getResidual_Sugar()
+        {
+            return residual_sugar;
+        }
+        
+        public int getChlorides()
+        {
+            return chlorides;
+        }
+
+        public int getFree_Sulfur_Dioxide()
+        {
+            return free_sulfur_dioxide;
+        }
+
+        public int getTotal_Sulfur_Dioxide()
+        {
+            return total_sulfur_dioxide;
+        }
+
+        public int getDensity()
+        {
+            return density;
+        }
+
+        public int getpH()
+        {
+            return pH;
+        }
+
+        public int getSulphates()
+        {
+            return sulphates;
+        }
+
+        public int getAlcohol()
+        {
+            return alcohol;
+        }
+
+        public int getQuality()
+        {
+            return quality;
+        }
+
+        public string toString()
+        {
+            return ("Fixed acidity: {0}, Volatile acidity: {1}, Citric acidity: {2}, Residual sugar: {3}, Chlorides: {4}, Free Sulfur Dioxide: {5}, Total Sulfure Dioxide: {6}, Density: {7}, pH: {8}, Sulphates: {9}, Alcohol: {10}, Quality : {11}",
+            getFixed_Acidity(), getVolatile_Acidity(), getCitric_Acidity(), getResidual_Sugar(), getChlorides(), getFree_Sulfur_Dioxide(), getTotal_Sulfur_Dioxide(), getDensity(), getpH(), getSulphates(), getAlcohol(), getQuality() )
+        }
+    }
+
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}
