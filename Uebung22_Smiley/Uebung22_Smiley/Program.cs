@@ -27,7 +27,7 @@ namespace Uebung22_Smiley
 
         static void Main(string[] args)
         {
-            string path = "J:\\TFO Meran Oskar von Miller\\Schulefiles\\3BEL\\Automation\\C#\\Uebung22_Smiley\\Uebung22_Smiley\\smiley.bmp";
+            string path = "H:\\TFO Meran Oskar von Miller\\Schulefiles\\3BEL\\Automation\\C#\\Uebung22_Smiley\\Uebung22_Smiley\\smiley.bmp";
             StreamReader readBMP = new StreamReader(path);
             string input = readBMP.ReadToEnd();
             int i = 0, j = 0;
