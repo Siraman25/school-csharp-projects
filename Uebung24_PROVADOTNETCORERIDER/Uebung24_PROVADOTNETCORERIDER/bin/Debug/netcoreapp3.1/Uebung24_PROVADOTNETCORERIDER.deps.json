@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Uebung24_PROVADOTNETCORERIDER/1.0.0": {
+        "runtime": {
+          "Uebung24_PROVADOTNETCORERIDER.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uebung24_PROVADOTNETCORERIDER/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
