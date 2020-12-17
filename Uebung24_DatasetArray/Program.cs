@@ -71,7 +71,7 @@ namespace Uebung24_DatasetArray
             int counter = 0;
             while (counter != -1)
             {
-                string[] ArrayCtr = ArrayReader("/home/aris/C#/Uebung24_DatasetArray/Datasets/iris.data", ref counter);
+                string[] ArrayCtr = ArrayReader("H:\\TFO Meran Oskar von Miller\\Schulefiles\\3BEL\\Automation\\C#\\Uebung24_DatasetArray\\Datasets\\iris.data", ref counter);
                 double data1 = Convert.ToDouble(ArrayCtr[0]);
                 double data2 = Convert.ToDouble(ArrayCtr[1]);
                 double data3 = Convert.ToDouble(ArrayCtr[2]);
