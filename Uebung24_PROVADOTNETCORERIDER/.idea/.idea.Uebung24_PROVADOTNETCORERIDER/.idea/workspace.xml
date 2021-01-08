@@ -4,7 +4,13 @@
     <projectFile>Uebung24_PROVADOTNETCORERIDER/Uebung24_PROVADOTNETCORERIDER.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e4de026-0f67-48dd-97bf-0c250bd423a7" name="Default Changelist" comment="" />
+    <list default="true" id="8e4de026-0f67-48dd-97bf-0c250bd423a7" name="Default Changelist" comment="Prova">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Uebung24_PROVADOTNETCORERIDER/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Uebung24_PROVADOTNETCORERIDER/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebung24_PROVADOTNETCORERIDER/bin/Debug/netcoreapp3.1/Uebung24_PROVADOTNETCORERIDER.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Uebung24_PROVADOTNETCORERIDER/bin/Debug/netcoreapp3.1/Uebung24_PROVADOTNETCORERIDER.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebung24_PROVADOTNETCORERIDER/bin/Debug/netcoreapp3.1/Uebung24_PROVADOTNETCORERIDER.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Uebung24_PROVADOTNETCORERIDER/bin/Debug/netcoreapp3.1/Uebung24_PROVADOTNETCORERIDER.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebung24_PROVADOTNETCORERIDER/obj/Debug/netcoreapp3.1/Uebung24_PROVADOTNETCORERIDER.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Uebung24_PROVADOTNETCORERIDER/obj/Debug/netcoreapp3.1/Uebung24_PROVADOTNETCORERIDER.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebung24_PROVADOTNETCORERIDER/obj/Debug/netcoreapp3.1/Uebung24_PROVADOTNETCORERIDER.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Uebung24_PROVADOTNETCORERIDER/obj/Debug/netcoreapp3.1/Uebung24_PROVADOTNETCORERIDER.pdb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,14 +67,37 @@
       <updated>1608217049248</updated>
       <workItem from="1608217061576" duration="22000" />
       <workItem from="1608217331275" duration="158000" />
-      <workItem from="1608217522603" duration="1125000" />
+      <workItem from="1608217522603" duration="1220000" />
+      <workItem from="1608218859090" duration="14000" />
     </task>
+    <task id="LOCAL-00001" summary="Prova">
+      <created>1608218684885</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608218684885</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Prova" />
+    <option name="LAST_COMMIT_MESSAGE" value="Prova" />
   </component>
 </project>
