@@ -1,0 +1,11 @@
+/home/aris/C#/Uebung27_CSVEinlesesn/Uebung27_CSVEinlesesn/bin/Debug/netcoreapp3.1/Uebung27_CSVEinlesesn
+/home/aris/C#/Uebung27_CSVEinlesesn/Uebung27_CSVEinlesesn/bin/Debug/netcoreapp3.1/Uebung27_CSVEinlesesn.deps.json
+/home/aris/C#/Uebung27_CSVEinlesesn/Uebung27_CSVEinlesesn/bin/Debug/netcoreapp3.1/Uebung27_CSVEinlesesn.runtimeconfig.json
+/home/aris/C#/Uebung27_CSVEinlesesn/Uebung27_CSVEinlesesn/bin/Debug/netcoreapp3.1/Uebung27_CSVEinlesesn.runtimeconfig.dev.json
+/home/aris/C#/Uebung27_CSVEinlesesn/Uebung27_CSVEinlesesn/bin/Debug/netcoreapp3.1/Uebung27_CSVEinlesesn.dll
+/home/aris/C#/Uebung27_CSVEinlesesn/Uebung27_CSVEinlesesn/bin/Debug/netcoreapp3.1/Uebung27_CSVEinlesesn.pdb
+/home/aris/C#/Uebung27_CSVEinlesesn/Uebung27_CSVEinlesesn/obj/Debug/netcoreapp3.1/Uebung27_CSVEinlesesn.csprojAssemblyReference.cache
+/home/aris/C#/Uebung27_CSVEinlesesn/Uebung27_CSVEinlesesn/obj/Debug/netcoreapp3.1/Uebung27_CSVEinlesesn.AssemblyInfoInputs.cache
+/home/aris/C#/Uebung27_CSVEinlesesn/Uebung27_CSVEinlesesn/obj/Debug/netcoreapp3.1/Uebung27_CSVEinlesesn.AssemblyInfo.cs
+/home/aris/C#/Uebung27_CSVEinlesesn/Uebung27_CSVEinlesesn/obj/Debug/netcoreapp3.1/Uebung27_CSVEinlesesn.dll
+/home/aris/C#/Uebung27_CSVEinlesesn/Uebung27_CSVEinlesesn/obj/Debug/netcoreapp3.1/Uebung27_CSVEinlesesn.pdb

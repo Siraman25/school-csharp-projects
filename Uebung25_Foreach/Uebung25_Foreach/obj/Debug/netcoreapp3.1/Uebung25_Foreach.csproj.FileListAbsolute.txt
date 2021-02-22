@@ -1,0 +1,11 @@
+/home/aris/C#/Uebung25_Foreach/Uebung25_Foreach/bin/Debug/netcoreapp3.1/Uebung25_Foreach
+/home/aris/C#/Uebung25_Foreach/Uebung25_Foreach/bin/Debug/netcoreapp3.1/Uebung25_Foreach.deps.json
+/home/aris/C#/Uebung25_Foreach/Uebung25_Foreach/bin/Debug/netcoreapp3.1/Uebung25_Foreach.runtimeconfig.json
+/home/aris/C#/Uebung25_Foreach/Uebung25_Foreach/bin/Debug/netcoreapp3.1/Uebung25_Foreach.runtimeconfig.dev.json
+/home/aris/C#/Uebung25_Foreach/Uebung25_Foreach/bin/Debug/netcoreapp3.1/Uebung25_Foreach.dll
+/home/aris/C#/Uebung25_Foreach/Uebung25_Foreach/bin/Debug/netcoreapp3.1/Uebung25_Foreach.pdb
+/home/aris/C#/Uebung25_Foreach/Uebung25_Foreach/obj/Debug/netcoreapp3.1/Uebung25_Foreach.csprojAssemblyReference.cache
+/home/aris/C#/Uebung25_Foreach/Uebung25_Foreach/obj/Debug/netcoreapp3.1/Uebung25_Foreach.AssemblyInfoInputs.cache
+/home/aris/C#/Uebung25_Foreach/Uebung25_Foreach/obj/Debug/netcoreapp3.1/Uebung25_Foreach.AssemblyInfo.cs
+/home/aris/C#/Uebung25_Foreach/Uebung25_Foreach/obj/Debug/netcoreapp3.1/Uebung25_Foreach.dll
+/home/aris/C#/Uebung25_Foreach/Uebung25_Foreach/obj/Debug/netcoreapp3.1/Uebung25_Foreach.pdb

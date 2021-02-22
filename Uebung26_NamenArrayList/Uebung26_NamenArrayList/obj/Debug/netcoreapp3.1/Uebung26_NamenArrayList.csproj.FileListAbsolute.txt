@@ -1,0 +1,11 @@
+/home/aris/C#/Uebung26_NamenArrayList/Uebung26_NamenArrayList/bin/Debug/netcoreapp3.1/Uebung26_NamenArrayList
+/home/aris/C#/Uebung26_NamenArrayList/Uebung26_NamenArrayList/bin/Debug/netcoreapp3.1/Uebung26_NamenArrayList.deps.json
+/home/aris/C#/Uebung26_NamenArrayList/Uebung26_NamenArrayList/bin/Debug/netcoreapp3.1/Uebung26_NamenArrayList.runtimeconfig.json
+/home/aris/C#/Uebung26_NamenArrayList/Uebung26_NamenArrayList/bin/Debug/netcoreapp3.1/Uebung26_NamenArrayList.runtimeconfig.dev.json
+/home/aris/C#/Uebung26_NamenArrayList/Uebung26_NamenArrayList/bin/Debug/netcoreapp3.1/Uebung26_NamenArrayList.dll
+/home/aris/C#/Uebung26_NamenArrayList/Uebung26_NamenArrayList/bin/Debug/netcoreapp3.1/Uebung26_NamenArrayList.pdb
+/home/aris/C#/Uebung26_NamenArrayList/Uebung26_NamenArrayList/obj/Debug/netcoreapp3.1/Uebung26_NamenArrayList.csprojAssemblyReference.cache
+/home/aris/C#/Uebung26_NamenArrayList/Uebung26_NamenArrayList/obj/Debug/netcoreapp3.1/Uebung26_NamenArrayList.AssemblyInfoInputs.cache
+/home/aris/C#/Uebung26_NamenArrayList/Uebung26_NamenArrayList/obj/Debug/netcoreapp3.1/Uebung26_NamenArrayList.AssemblyInfo.cs
+/home/aris/C#/Uebung26_NamenArrayList/Uebung26_NamenArrayList/obj/Debug/netcoreapp3.1/Uebung26_NamenArrayList.dll
+/home/aris/C#/Uebung26_NamenArrayList/Uebung26_NamenArrayList/obj/Debug/netcoreapp3.1/Uebung26_NamenArrayList.pdb

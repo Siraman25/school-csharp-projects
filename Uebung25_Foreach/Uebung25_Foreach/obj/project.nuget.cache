@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TeVr5QIifiwdag779q7UOxK78rVLF5FUBOyoFR0ZgMRsm0VZhA7fRbkog61CLgaEZpZpKwX86Nz6hKxODsqzWg==",
+  "success": true,
+  "projectFilePath": "/home/aris/C#/Uebung25_Foreach/Uebung25_Foreach/Uebung25_Foreach.csproj",
+  "expectedPackageFiles": [
+    "/home/aris/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

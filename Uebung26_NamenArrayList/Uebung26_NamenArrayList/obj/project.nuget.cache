@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w0zwqRIdik7nOlwLQFiuy93YGxcsotChcaVBzDhYJwySvo9CZsUa1rVXsBPBMbUu74e+PqlbtMFoEwB1bPzniw==",
+  "success": true,
+  "projectFilePath": "/home/aris/C#/Uebung26_NamenArrayList/Uebung26_NamenArrayList/Uebung26_NamenArrayList.csproj",
+  "expectedPackageFiles": [
+    "/home/aris/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

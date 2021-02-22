@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e8zQIN0x2VY8gyo2/3rWTyDYFRvWPZo5as1z3Vk5GkdW1k4tg2wbcb7TFlWqdYX8iL6tPRqQYWZ1v033vQYsFQ==",
+  "success": true,
+  "projectFilePath": "/home/aris/C#/Uebung27_CSVEinlesesn/Uebung27_CSVEinlesesn/Uebung27_CSVEinlesesn.csproj",
+  "expectedPackageFiles": [
+    "/home/aris/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}
