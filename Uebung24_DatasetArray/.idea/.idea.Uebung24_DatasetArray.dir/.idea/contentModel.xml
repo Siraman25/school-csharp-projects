@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\arism\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\arism\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+    <e p="H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung24_DatasetArray" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Datasets" t="Include">
+        <e p="iris.data" t="Include" />
+        <e p="iris.names" t="Include" />
+        <e p="winequality-red.csv" t="Include" />
+        <e p="winequality-white.csv" t="Include" />
+      </e>
+      <e p="Info" t="Include" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="Uebung24_DatasetArray.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Program.cs.old" t="Include" />
+      <e p="Uebung24_DatasetArray.csproj" t="IncludeRecursive" />
+    </e>
+  </component>
+</project>
