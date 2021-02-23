@@ -1,0 +1,16 @@
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung28_OOPZugBruch\Uebung28_OOPZugBruch\bin\Debug\net5.0\Uebung28_OOPZugBruch.exe
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung28_OOPZugBruch\Uebung28_OOPZugBruch\bin\Debug\net5.0\Uebung28_OOPZugBruch.deps.json
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung28_OOPZugBruch\Uebung28_OOPZugBruch\bin\Debug\net5.0\Uebung28_OOPZugBruch.runtimeconfig.json
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung28_OOPZugBruch\Uebung28_OOPZugBruch\bin\Debug\net5.0\Uebung28_OOPZugBruch.runtimeconfig.dev.json
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung28_OOPZugBruch\Uebung28_OOPZugBruch\bin\Debug\net5.0\Uebung28_OOPZugBruch.dll
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung28_OOPZugBruch\Uebung28_OOPZugBruch\bin\Debug\net5.0\ref\Uebung28_OOPZugBruch.dll
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung28_OOPZugBruch\Uebung28_OOPZugBruch\bin\Debug\net5.0\Uebung28_OOPZugBruch.pdb
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung28_OOPZugBruch\Uebung28_OOPZugBruch\obj\Debug\net5.0\Uebung28_OOPZugBruch.csprojAssemblyReference.cache
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung28_OOPZugBruch\Uebung28_OOPZugBruch\obj\Debug\net5.0\Uebung28_OOPZugBruch.GeneratedMSBuildEditorConfig.editorconfig
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung28_OOPZugBruch\Uebung28_OOPZugBruch\obj\Debug\net5.0\Uebung28_OOPZugBruch.AssemblyInfoInputs.cache
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung28_OOPZugBruch\Uebung28_OOPZugBruch\obj\Debug\net5.0\Uebung28_OOPZugBruch.AssemblyInfo.cs
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung28_OOPZugBruch\Uebung28_OOPZugBruch\obj\Debug\net5.0\Uebung28_OOPZugBruch.csproj.CoreCompileInputs.cache
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung28_OOPZugBruch\Uebung28_OOPZugBruch\obj\Debug\net5.0\Uebung28_OOPZugBruch.dll
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung28_OOPZugBruch\Uebung28_OOPZugBruch\obj\Debug\net5.0\ref\Uebung28_OOPZugBruch.dll
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung28_OOPZugBruch\Uebung28_OOPZugBruch\obj\Debug\net5.0\Uebung28_OOPZugBruch.pdb
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung28_OOPZugBruch\Uebung28_OOPZugBruch\obj\Debug\net5.0\Uebung28_OOPZugBruch.genruntimeconfig.cache
