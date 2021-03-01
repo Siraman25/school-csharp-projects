@@ -1,0 +1,16 @@
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung30_SpielfigurOOP\Uebung30_SpielfigurOOP\bin\Debug\net5.0\Uebung30_SpielfigurOOP.exe
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung30_SpielfigurOOP\Uebung30_SpielfigurOOP\bin\Debug\net5.0\Uebung30_SpielfigurOOP.deps.json
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung30_SpielfigurOOP\Uebung30_SpielfigurOOP\bin\Debug\net5.0\Uebung30_SpielfigurOOP.runtimeconfig.json
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung30_SpielfigurOOP\Uebung30_SpielfigurOOP\bin\Debug\net5.0\Uebung30_SpielfigurOOP.runtimeconfig.dev.json
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung30_SpielfigurOOP\Uebung30_SpielfigurOOP\bin\Debug\net5.0\Uebung30_SpielfigurOOP.dll
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung30_SpielfigurOOP\Uebung30_SpielfigurOOP\bin\Debug\net5.0\ref\Uebung30_SpielfigurOOP.dll
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung30_SpielfigurOOP\Uebung30_SpielfigurOOP\bin\Debug\net5.0\Uebung30_SpielfigurOOP.pdb
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung30_SpielfigurOOP\Uebung30_SpielfigurOOP\obj\Debug\net5.0\Uebung30_SpielfigurOOP.csprojAssemblyReference.cache
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung30_SpielfigurOOP\Uebung30_SpielfigurOOP\obj\Debug\net5.0\Uebung30_SpielfigurOOP.GeneratedMSBuildEditorConfig.editorconfig
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung30_SpielfigurOOP\Uebung30_SpielfigurOOP\obj\Debug\net5.0\Uebung30_SpielfigurOOP.AssemblyInfoInputs.cache
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung30_SpielfigurOOP\Uebung30_SpielfigurOOP\obj\Debug\net5.0\Uebung30_SpielfigurOOP.AssemblyInfo.cs
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung30_SpielfigurOOP\Uebung30_SpielfigurOOP\obj\Debug\net5.0\Uebung30_SpielfigurOOP.csproj.CoreCompileInputs.cache
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung30_SpielfigurOOP\Uebung30_SpielfigurOOP\obj\Debug\net5.0\Uebung30_SpielfigurOOP.dll
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung30_SpielfigurOOP\Uebung30_SpielfigurOOP\obj\Debug\net5.0\ref\Uebung30_SpielfigurOOP.dll
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung30_SpielfigurOOP\Uebung30_SpielfigurOOP\obj\Debug\net5.0\Uebung30_SpielfigurOOP.pdb
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung30_SpielfigurOOP\Uebung30_SpielfigurOOP\obj\Debug\net5.0\Uebung30_SpielfigurOOP.genruntimeconfig.cache

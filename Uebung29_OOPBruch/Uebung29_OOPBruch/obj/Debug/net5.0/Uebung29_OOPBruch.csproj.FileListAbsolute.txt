@@ -1,0 +1,16 @@
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung29_OOPBruch\Uebung29_OOPBruch\bin\Debug\net5.0\Uebung29_OOPBruch.exe
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung29_OOPBruch\Uebung29_OOPBruch\bin\Debug\net5.0\Uebung29_OOPBruch.deps.json
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung29_OOPBruch\Uebung29_OOPBruch\bin\Debug\net5.0\Uebung29_OOPBruch.runtimeconfig.json
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung29_OOPBruch\Uebung29_OOPBruch\bin\Debug\net5.0\Uebung29_OOPBruch.runtimeconfig.dev.json
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung29_OOPBruch\Uebung29_OOPBruch\bin\Debug\net5.0\Uebung29_OOPBruch.dll
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung29_OOPBruch\Uebung29_OOPBruch\bin\Debug\net5.0\ref\Uebung29_OOPBruch.dll
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung29_OOPBruch\Uebung29_OOPBruch\bin\Debug\net5.0\Uebung29_OOPBruch.pdb
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung29_OOPBruch\Uebung29_OOPBruch\obj\Debug\net5.0\Uebung29_OOPBruch.csprojAssemblyReference.cache
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung29_OOPBruch\Uebung29_OOPBruch\obj\Debug\net5.0\Uebung29_OOPBruch.GeneratedMSBuildEditorConfig.editorconfig
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung29_OOPBruch\Uebung29_OOPBruch\obj\Debug\net5.0\Uebung29_OOPBruch.AssemblyInfoInputs.cache
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung29_OOPBruch\Uebung29_OOPBruch\obj\Debug\net5.0\Uebung29_OOPBruch.AssemblyInfo.cs
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung29_OOPBruch\Uebung29_OOPBruch\obj\Debug\net5.0\Uebung29_OOPBruch.csproj.CoreCompileInputs.cache
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung29_OOPBruch\Uebung29_OOPBruch\obj\Debug\net5.0\Uebung29_OOPBruch.dll
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung29_OOPBruch\Uebung29_OOPBruch\obj\Debug\net5.0\ref\Uebung29_OOPBruch.dll
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung29_OOPBruch\Uebung29_OOPBruch\obj\Debug\net5.0\Uebung29_OOPBruch.pdb
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung29_OOPBruch\Uebung29_OOPBruch\obj\Debug\net5.0\Uebung29_OOPBruch.genruntimeconfig.cache

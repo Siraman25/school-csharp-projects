@@ -4,7 +4,17 @@
     <projectFile>Uebung28_OOPZugBruch/Uebung28_OOPZugBruch.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55091b03-d912-4b9a-814c-c7ae4c07e121" name="Default Changelist" comment="" />
+    <list default="true" id="55091b03-d912-4b9a-814c-c7ae4c07e121" name="Default Changelist" comment="Added Uebung28_OOPZugBruch, Half-finished">
+      <change afterPath="$PROJECT_DIR$/../Uebung29_OOPBruch/Uebung29_OOPBruch/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Uebung28_OOPZugBruch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Uebung28_OOPZugBruch/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebung28_OOPZugBruch/bin/Debug/net5.0/Uebung28_OOPZugBruch.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Uebung28_OOPZugBruch/bin/Debug/net5.0/Uebung28_OOPZugBruch.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebung28_OOPZugBruch/bin/Debug/net5.0/Uebung28_OOPZugBruch.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Uebung28_OOPZugBruch/bin/Debug/net5.0/Uebung28_OOPZugBruch.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebung28_OOPZugBruch/bin/Debug/net5.0/ref/Uebung28_OOPZugBruch.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Uebung28_OOPZugBruch/bin/Debug/net5.0/ref/Uebung28_OOPZugBruch.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebung28_OOPZugBruch/obj/Debug/net5.0/Uebung28_OOPZugBruch.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Uebung28_OOPZugBruch/obj/Debug/net5.0/Uebung28_OOPZugBruch.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebung28_OOPZugBruch/obj/Debug/net5.0/Uebung28_OOPZugBruch.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Uebung28_OOPZugBruch/obj/Debug/net5.0/Uebung28_OOPZugBruch.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebung28_OOPZugBruch/obj/Debug/net5.0/Uebung28_OOPZugBruch.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Uebung28_OOPZugBruch/obj/Debug/net5.0/Uebung28_OOPZugBruch.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebung28_OOPZugBruch/obj/Debug/net5.0/ref/Uebung28_OOPZugBruch.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Uebung28_OOPZugBruch/obj/Debug/net5.0/ref/Uebung28_OOPZugBruch.dll" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,9 +23,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Uebung28_OOPZugBruch/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Uebung28_OOPZugBruch/Program.cs" />
+      <option value="$PROJECT_DIR$/Uebung28_OOPZugBruch/Prgram2.cs" />
+      <option value="$PROJECT_DIR$/Uebung28_OOPZugBruch/Program2.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1osK389ItSdfBJu1JyIzEV52KmW" />
@@ -28,6 +43,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -58,8 +74,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614069659751</updated>
-      <workItem from="1614069670228" duration="5719000" />
+      <workItem from="1614069670228" duration="6183000" />
+      <workItem from="1614152668428" duration="3437000" />
     </task>
+    <task id="LOCAL-00001" summary="Added Uebung28_OOPZugBruch, Half-finished">
+      <created>1614076503926</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614076503926</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,8 +100,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Added Uebung28_OOPZugBruch, Half-finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Uebung28_OOPZugBruch, Half-finished" />
   </component>
 </project>

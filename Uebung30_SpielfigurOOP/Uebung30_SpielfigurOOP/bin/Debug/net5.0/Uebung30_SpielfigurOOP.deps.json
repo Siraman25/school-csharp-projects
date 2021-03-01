@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Uebung30_SpielfigurOOP/1.0.0": {
+        "runtime": {
+          "Uebung30_SpielfigurOOP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uebung30_SpielfigurOOP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
