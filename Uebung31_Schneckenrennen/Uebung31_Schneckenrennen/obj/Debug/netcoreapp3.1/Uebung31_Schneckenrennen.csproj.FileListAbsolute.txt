@@ -1,0 +1,24 @@
+/home/aris/C#/Uebung31_Schneckenrennen/Uebung31_Schneckenrennen/obj/Debug/netcoreapp3.1/Uebung31_Schneckenrennen.csprojAssemblyReference.cache
+/home/aris/C#/Uebung31_Schneckenrennen/Uebung31_Schneckenrennen/obj/Debug/netcoreapp3.1/Uebung31_Schneckenrennen.AssemblyInfoInputs.cache
+/home/aris/C#/Uebung31_Schneckenrennen/Uebung31_Schneckenrennen/obj/Debug/netcoreapp3.1/Uebung31_Schneckenrennen.AssemblyInfo.cs
+/home/aris/C#/Uebung31_Schneckenrennen/Uebung31_Schneckenrennen/bin/Debug/netcoreapp3.1/Uebung31_Schneckenrennen
+/home/aris/C#/Uebung31_Schneckenrennen/Uebung31_Schneckenrennen/bin/Debug/netcoreapp3.1/Uebung31_Schneckenrennen.deps.json
+/home/aris/C#/Uebung31_Schneckenrennen/Uebung31_Schneckenrennen/bin/Debug/netcoreapp3.1/Uebung31_Schneckenrennen.runtimeconfig.json
+/home/aris/C#/Uebung31_Schneckenrennen/Uebung31_Schneckenrennen/bin/Debug/netcoreapp3.1/Uebung31_Schneckenrennen.runtimeconfig.dev.json
+/home/aris/C#/Uebung31_Schneckenrennen/Uebung31_Schneckenrennen/bin/Debug/netcoreapp3.1/Uebung31_Schneckenrennen.dll
+/home/aris/C#/Uebung31_Schneckenrennen/Uebung31_Schneckenrennen/bin/Debug/netcoreapp3.1/Uebung31_Schneckenrennen.pdb
+/home/aris/C#/Uebung31_Schneckenrennen/Uebung31_Schneckenrennen/obj/Debug/netcoreapp3.1/Uebung31_Schneckenrennen.dll
+/home/aris/C#/Uebung31_Schneckenrennen/Uebung31_Schneckenrennen/obj/Debug/netcoreapp3.1/Uebung31_Schneckenrennen.pdb
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung31_Schneckenrennen\Uebung31_Schneckenrennen\bin\Debug\netcoreapp3.1\Uebung31_Schneckenrennen.exe
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung31_Schneckenrennen\Uebung31_Schneckenrennen\bin\Debug\netcoreapp3.1\Uebung31_Schneckenrennen.deps.json
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung31_Schneckenrennen\Uebung31_Schneckenrennen\bin\Debug\netcoreapp3.1\Uebung31_Schneckenrennen.runtimeconfig.json
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung31_Schneckenrennen\Uebung31_Schneckenrennen\bin\Debug\netcoreapp3.1\Uebung31_Schneckenrennen.runtimeconfig.dev.json
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung31_Schneckenrennen\Uebung31_Schneckenrennen\bin\Debug\netcoreapp3.1\Uebung31_Schneckenrennen.dll
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung31_Schneckenrennen\Uebung31_Schneckenrennen\bin\Debug\netcoreapp3.1\Uebung31_Schneckenrennen.pdb
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung31_Schneckenrennen\Uebung31_Schneckenrennen\obj\Debug\netcoreapp3.1\Uebung31_Schneckenrennen.csprojAssemblyReference.cache
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung31_Schneckenrennen\Uebung31_Schneckenrennen\obj\Debug\netcoreapp3.1\Uebung31_Schneckenrennen.AssemblyInfoInputs.cache
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung31_Schneckenrennen\Uebung31_Schneckenrennen\obj\Debug\netcoreapp3.1\Uebung31_Schneckenrennen.AssemblyInfo.cs
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung31_Schneckenrennen\Uebung31_Schneckenrennen\obj\Debug\netcoreapp3.1\Uebung31_Schneckenrennen.csproj.CoreCompileInputs.cache
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung31_Schneckenrennen\Uebung31_Schneckenrennen\obj\Debug\netcoreapp3.1\Uebung31_Schneckenrennen.dll
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung31_Schneckenrennen\Uebung31_Schneckenrennen\obj\Debug\netcoreapp3.1\Uebung31_Schneckenrennen.pdb
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung31_Schneckenrennen\Uebung31_Schneckenrennen\obj\Debug\netcoreapp3.1\Uebung31_Schneckenrennen.genruntimeconfig.cache
