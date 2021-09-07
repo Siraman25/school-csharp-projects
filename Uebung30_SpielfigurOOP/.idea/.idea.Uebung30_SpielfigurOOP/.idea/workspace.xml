@@ -4,9 +4,7 @@
     <projectFile>Uebung30_SpielfigurOOP/Uebung30_SpielfigurOOP.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e03d31c7-de7f-4689-83ad-a9e15a840be3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Uebung28_OOPZugBruch/.idea/.idea.Uebung28_OOPZugBruch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Uebung28_OOPZugBruch/.idea/.idea.Uebung28_OOPZugBruch/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e03d31c7-de7f-4689-83ad-a9e15a840be3" name="Default Changelist" comment="Added Uebung30, should be finished, I could need to update it in the future." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +14,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../Uebung29_OOPBruch/Uebung29_OOPBruch/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Uebung30_SpielfigurOOP/Program.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -63,8 +62,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614590328779</updated>
-      <workItem from="1614590348190" duration="3576000" />
+      <workItem from="1614590348190" duration="3899000" />
     </task>
+    <task id="LOCAL-00001" summary="Added Uebung30, should be finished, I could need to update it in the future.">
+      <created>1614594210049</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614594210049</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,5 +90,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Added Uebung30, should be finished, I could need to update it in the future." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Uebung30, should be finished, I could need to update it in the future." />
   </component>
 </project>

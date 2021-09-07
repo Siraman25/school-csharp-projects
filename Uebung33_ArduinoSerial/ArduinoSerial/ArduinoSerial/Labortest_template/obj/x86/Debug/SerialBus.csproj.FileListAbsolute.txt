@@ -1,0 +1,18 @@
+P:\Documents\Schule\C# Projects\2017-18\SerialBus\Labortest_template\bin\Debug\Labortest_template.exe
+P:\Documents\Schule\C# Projects\2017-18\SerialBus\Labortest_template\bin\Debug\Labortest_template.pdb
+P:\Documents\Schule\C# Projects\2017-18\SerialBus\Labortest_template\obj\x86\Debug\SerialPortDemo.Form1.resources
+P:\Documents\Schule\C# Projects\2017-18\SerialBus\Labortest_template\obj\x86\Debug\SerialPortDemo.Properties.Resources.resources
+P:\Documents\Schule\C# Projects\2017-18\SerialBus\Labortest_template\obj\x86\Debug\SerialBus.csproj.GenerateResource.Cache
+P:\Documents\Schule\C# Projects\2017-18\SerialBus\Labortest_template\obj\x86\Debug\Labortest_template.exe
+P:\Documents\Schule\C# Projects\2017-18\SerialBus\Labortest_template\obj\x86\Debug\Labortest_template.pdb
+P:\Documents\Schule\C# Projects\2017-18\Labortest-SerialBus\Labortest_template\obj\x86\Debug\Labortest_template.exe
+P:\Documents\Schule\C# Projects\2017-18\Labortest-SerialBus\Labortest_template\obj\x86\Debug\Labortest_template.pdb
+P:\Documents\Schule\C# Projects\2017-18\Labortest-SerialBus\Labortest_template\bin\Debug\Labortest_template.exe
+P:\Documents\Schule\C# Projects\2017-18\Labortest-SerialBus\Labortest_template\bin\Debug\Labortest_template.pdb
+P:\Documents\Schule\C# Projects\2017-18\Labortest-SerialBus\Labortest_template\obj\x86\Debug\SerialPortDemo.Form1.resources
+P:\Documents\Schule\C# Projects\2017-18\Labortest-SerialBus\Labortest_template\obj\x86\Debug\SerialPortDemo.Properties.Resources.resources
+P:\Documents\Schule\C# Projects\2017-18\Labortest-SerialBus\Labortest_template\obj\x86\Debug\SerialBus.csproj.GenerateResource.Cache
+P:\4te-Labortest\Labortest-SerialBus\Labortest_template\obj\x86\Debug\Labortest_template.exe
+P:\4te-Labortest\Labortest-SerialBus\Labortest_template\obj\x86\Debug\Labortest_template.pdb
+P:\ArduinoSerial\Labortest_template\obj\x86\Debug\Labortest_template.exe
+P:\ArduinoSerial\Labortest_template\obj\x86\Debug\Labortest_template.pdb

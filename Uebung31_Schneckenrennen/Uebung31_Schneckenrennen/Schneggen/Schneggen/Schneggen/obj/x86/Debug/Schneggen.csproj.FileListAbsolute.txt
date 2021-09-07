@@ -1,0 +1,4 @@
+C:\Users\Admin\documents\visual studio 2010\Projects\Schneggen\Schneggen\bin\Debug\Schneggen.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\Schneggen\Schneggen\bin\Debug\Schneggen.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\Schneggen\Schneggen\obj\x86\Debug\Schneggen.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\Schneggen\Schneggen\obj\x86\Debug\Schneggen.pdb

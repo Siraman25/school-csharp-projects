@@ -1,0 +1,13 @@
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung32_Geomobject\Program\GeomObjects\GeomObjects\bin\Debug\netcoreapp3.1\GeomObjects.exe
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung32_Geomobject\Program\GeomObjects\GeomObjects\bin\Debug\netcoreapp3.1\GeomObjects.deps.json
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung32_Geomobject\Program\GeomObjects\GeomObjects\bin\Debug\netcoreapp3.1\GeomObjects.runtimeconfig.json
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung32_Geomobject\Program\GeomObjects\GeomObjects\bin\Debug\netcoreapp3.1\GeomObjects.runtimeconfig.dev.json
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung32_Geomobject\Program\GeomObjects\GeomObjects\bin\Debug\netcoreapp3.1\GeomObjects.dll
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung32_Geomobject\Program\GeomObjects\GeomObjects\bin\Debug\netcoreapp3.1\GeomObjects.pdb
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung32_Geomobject\Program\GeomObjects\GeomObjects\obj\Debug\netcoreapp3.1\GeomObjects.csprojAssemblyReference.cache
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung32_Geomobject\Program\GeomObjects\GeomObjects\obj\Debug\netcoreapp3.1\GeomObjects.AssemblyInfoInputs.cache
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung32_Geomobject\Program\GeomObjects\GeomObjects\obj\Debug\netcoreapp3.1\GeomObjects.AssemblyInfo.cs
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung32_Geomobject\Program\GeomObjects\GeomObjects\obj\Debug\netcoreapp3.1\GeomObjects.csproj.CoreCompileInputs.cache
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung32_Geomobject\Program\GeomObjects\GeomObjects\obj\Debug\netcoreapp3.1\GeomObjects.dll
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung32_Geomobject\Program\GeomObjects\GeomObjects\obj\Debug\netcoreapp3.1\GeomObjects.pdb
+H:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung32_Geomobject\Program\GeomObjects\GeomObjects\obj\Debug\netcoreapp3.1\GeomObjects.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+P:\ArduinoSerial\Labortest_template\bin\Debug\ArduinoSerial.exe
+P:\ArduinoSerial\Labortest_template\bin\Debug\ArduinoSerial.pdb
+P:\ArduinoSerial\Labortest_template\obj\x86\Debug\SerialPortDemo.Form1.resources
+P:\ArduinoSerial\Labortest_template\obj\x86\Debug\ArduinoSerial.Properties.Resources.resources
+P:\ArduinoSerial\Labortest_template\obj\x86\Debug\ArduinoSerial.csproj.GenerateResource.Cache
+P:\ArduinoSerial\Labortest_template\obj\x86\Debug\ArduinoSerial.exe
+P:\ArduinoSerial\Labortest_template\obj\x86\Debug\ArduinoSerial.pdb
+P:\Documents\Schule\C# Projects\ArduinoSerial\Labortest_template\obj\x86\Debug\ArduinoSerial.exe
+P:\Documents\Schule\C# Projects\ArduinoSerial\Labortest_template\obj\x86\Debug\ArduinoSerial.pdb
+C:\Users\CG\Documents\Visual Studio 2010\Projects\ArduinoSerial\Labortest_template\obj\x86\Debug\ArduinoSerial.exe
+C:\Users\CG\Documents\Visual Studio 2010\Projects\ArduinoSerial\Labortest_template\obj\x86\Debug\ArduinoSerial.pdb
+C:\Users\CG\Documents\Visual Studio 2010\Projects\ArduinoSerial\Labortest_template\bin\Debug\ArduinoSerial.exe
+C:\Users\CG\Documents\Visual Studio 2010\Projects\ArduinoSerial\Labortest_template\bin\Debug\ArduinoSerial.pdb
+C:\Users\CG\Documents\Visual Studio 2010\Projects\ArduinoSerial\Labortest_template\obj\x86\Debug\ArduinoSerial.csprojResolveAssemblyReference.cache
+C:\Users\CG\Documents\Visual Studio 2010\Projects\ArduinoSerial\Labortest_template\obj\x86\Debug\SerialPortDemo.Form1.resources
+C:\Users\CG\Documents\Visual Studio 2010\Projects\ArduinoSerial\Labortest_template\obj\x86\Debug\ArduinoSerial.Properties.Resources.resources
+C:\Users\CG\Documents\Visual Studio 2010\Projects\ArduinoSerial\Labortest_template\obj\x86\Debug\ArduinoSerial.csproj.GenerateResource.Cache
+E:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung33_ArduinoSerial\ArduinoSerial\ArduinoSerial\Labortest_template\obj\x86\Debug\ArduinoSerial.exe
+E:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung33_ArduinoSerial\ArduinoSerial\ArduinoSerial\Labortest_template\obj\x86\Debug\ArduinoSerial.pdb
+E:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung33_ArduinoSerial\ArduinoSerial\ArduinoSerial\Labortest_template\bin\Debug\ArduinoSerial.exe
+E:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung33_ArduinoSerial\ArduinoSerial\ArduinoSerial\Labortest_template\bin\Debug\ArduinoSerial.pdb
+E:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung33_ArduinoSerial\ArduinoSerial\ArduinoSerial\Labortest_template\obj\x86\Debug\ArduinoSerial.csprojResolveAssemblyReference.cache
+E:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung33_ArduinoSerial\ArduinoSerial\ArduinoSerial\Labortest_template\obj\x86\Debug\SerialPortDemo.Form1.resources
+E:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung33_ArduinoSerial\ArduinoSerial\ArduinoSerial\Labortest_template\obj\x86\Debug\ArduinoSerial.Properties.Resources.resources
+E:\TFO Meran Oskar von Miller\Schulefiles\3BEL\Automation\C#\Uebung33_ArduinoSerial\ArduinoSerial\ArduinoSerial\Labortest_template\obj\x86\Debug\ArduinoSerial.csproj.GenerateResource.Cache
